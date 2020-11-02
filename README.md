@@ -1,6 +1,8 @@
 # Recriação da página inicial do Netflix. 
 :hammer_and_wrench: Projeto em construção
 
+:triangular_flag_on_post: Para acessar o site, clique aqui: https://recriandonetflix.netlify.app/
+
 ## Tecnologias utilizadas:
 :heavy_check_mark: Html5
 
